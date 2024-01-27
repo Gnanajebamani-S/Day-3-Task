@@ -1,0 +1,2 @@
+Question 1 in the script1.js file
+Question 2 & 3 in the index.html+script.js file
